@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a leading technology internship platform that provides students and fresh graduates with hands-on experience in software development, AI, data science, and more. It bridges the gap between academic learning and real-world industry skills."
+  },
+  {
+    "question": "How do I apply for the CodeAlpha internship?",
+    "answer": "You can apply for the CodeAlpha internship by visiting the official CodeAlpha website, navigating to the 'Internships' section, selecting your desired domain, and submitting your application along with your resume and portfolio links."
+  },
+  {
+    "question": "Is the CodeAlpha internship paid?",
+    "answer": "CodeAlpha offers both paid and unpaid internship tracks depending on the domain and the applicant's skill level. Details about compensation are provided in the individual internship offer letters after selection."
+  },
+  {
+    "question": "What is the duration of the internship?",
+    "answer": "The CodeAlpha internship typically lasts between 1 to 3 months. The exact duration depends on the chosen track and the number of assigned tasks, which are clearly communicated during the onboarding process."
+  },
+  {
+    "question": "What domains does CodeAlpha offer internships in?",
+    "answer": "CodeAlpha offers internships across a wide range of technology domains including Artificial Intelligence, Machine Learning, Natural Language Processing, Web Development, Mobile App Development, Cybersecurity, Data Science, and UI/UX Design."
+  },
+  {
+    "question": "Will I receive a certificate after the internship?",
+    "answer": "Yes! Upon successful completion of all assigned tasks and meeting the internship requirements, CodeAlpha provides an official digital certificate of completion. This certificate can be shared on LinkedIn and added to your resume."
+  },
+  {
+    "question": "What tasks are assigned during the AI internship?",
+    "answer": "During the CodeAlpha AI internship, you are typically assigned 3 projects of increasing complexity. These include building real-world AI/ML applications such as chatbots, recommendation systems, image classifiers, sentiment analyzers, and more."
+  },
+  {
+    "question": "Is prior experience required for the internship?",
+    "answer": "No prior professional experience is strictly required. However, a basic understanding of programming and familiarity with the domain you are applying for (e.g., Python for AI/ML) is strongly recommended to complete the tasks effectively."
+  },
+  {
+    "question": "How is the internship conducted — remote or onsite?",
+    "answer": "The CodeAlpha internship is fully remote. All tasks, communications, and submissions are handled online, making it accessible to students and graduates from anywhere in the world."
+  },
+  {
+    "question": "How do I submit my completed tasks?",
+    "answer": "Completed tasks are submitted via GitHub. You are required to push your project code to a public GitHub repository, add a README with project details and screenshots, and share the repository link with your CodeAlpha supervisor."
+  },
+  {
+    "question": "What programming languages are used?",
+    "answer": "The programming languages used depend on your domain. For AI/ML internships, Python is the primary language. Web development tracks may involve JavaScript, HTML, CSS, and frameworks like React or Flask. You'll be informed during onboarding."
+  },
+  {
+    "question": "Who can I contact if I have issues during the internship?",
+    "answer": "If you face any issues during the internship, you can reach out to your assigned CodeAlpha mentor or contact the support team via the official email provided in your offer letter. Response times are typically within 24-48 business hours."
+  },
+  {
+    "question": "Can I list this internship on my LinkedIn profile?",
+    "answer": "Absolutely! You are encouraged to list your CodeAlpha internship experience on LinkedIn. Many interns also share their completed projects as portfolio pieces, which significantly strengthens their professional profile."
+  },
+  {
+    "question": "What tools and libraries are commonly used in the AI track?",
+    "answer": "The AI internship track commonly involves tools and libraries such as Python, NumPy, Pandas, Scikit-learn, NLTK, TensorFlow, PyTorch, Matplotlib, Seaborn, Flask, and Jupyter Notebooks for data analysis and model building."
+  },
+  {
+    "question": "Is there a deadline for completing the internship tasks?",
+    "answer": "Yes, each task or project has a specific deadline communicated at the start of the internship. It is important to manage your time effectively and complete all deliverables on time to receive the completion certificate."
+  },
+  {
+    "question": "Can I work on the internship alongside my university studies?",
+    "answer": "Yes! The CodeAlpha internship is designed to be flexible and remote, making it ideal for students who are simultaneously pursuing their university degree. You can schedule your work around your academic commitments."
+  },
+  {
+    "question": "What is the selection process for the internship?",
+    "answer": "The CodeAlpha selection process typically involves submitting an online application with your resume and portfolio. Shortlisted candidates receive an offer letter via email. Some domains may include a brief technical assessment."
+  },
+  {
+    "question": "How do I get a letter of recommendation?",
+    "answer": "Outstanding interns who complete all tasks with high quality and demonstrate exceptional commitment may request a letter of recommendation from their CodeAlpha mentor. This is evaluated on a case-by-case basis."
+  },
+  {
+    "question": "What is the FAQ chatbot project in the AI internship?",
+    "answer": "The FAQ Chatbot is one of the core projects in the CodeAlpha AI internship. It involves building an NLP-powered chatbot that reads FAQs from a JSON file, uses TF-IDF vectorization and cosine similarity to match user queries, and returns the most relevant answer."
+  },
+  {
+    "question": "How many projects are in the AI internship?",
+    "answer": "The CodeAlpha AI internship typically includes 3 main projects. These are designed to progressively build your skills from foundational AI/ML concepts to more advanced real-world applications."
+  },
+  {
+    "question": "What is TF-IDF?",
+    "answer": "TF-IDF stands for Term Frequency-Inverse Document Frequency. It is a numerical statistic used in NLP to reflect how important a word is to a document relative to a collection of documents. It is widely used in text similarity, information retrieval, and chatbot development."
+  },
+  {
+    "question": "What is cosine similarity?",
+    "answer": "Cosine similarity is a metric used to measure how similar two text documents are, regardless of their size. It calculates the cosine of the angle between two vectors in a multi-dimensional space. A score of 1 means identical, while 0 means completely different."
+  },
+  {
+    "question": "What is NLTK?",
+    "answer": "NLTK stands for Natural Language Toolkit. It is a powerful Python library used for working with human language data. It provides tools for tokenization, stemming, lemmatization, parsing, and semantic reasoning — all essential for NLP projects."
+  },
+  {
+    "question": "What is Flask?",
+    "answer": "Flask is a lightweight and flexible Python web framework used to build web applications and REST APIs. It is widely used in AI and ML projects to serve machine learning models as web services, making it ideal for this chatbot project."
+  },
+  {
+    "question": "How is performance evaluated in the internship?",
+    "answer": "Your performance is evaluated based on the quality of your submitted GitHub repositories, code cleanliness, project documentation (README), functionality of the deliverables, and adherence to deadlines. Mentors review each submission and provide feedback."
+  }
+]
