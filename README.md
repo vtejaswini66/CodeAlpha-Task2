@@ -5,16 +5,6 @@
 
 ---
 
-##  Preview
-
-_Place your screenshots in the `screenshots/` folder and reference them here._
-
-| Dark Mode | Light Mode |
-|-----------|-----------|
-| ![dark](screenshots/dark.png) | ![light](screenshots/light.png) |
-
----
-
 ##  Features
 
 -  Reads FAQs from a structured `faq.json` file — easy to extend
