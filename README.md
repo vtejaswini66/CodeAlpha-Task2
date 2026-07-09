@@ -1,11 +1,11 @@
-# 🤖 CodeAlpha FAQ Chatbot
+# CodeAlpha FAQ Chatbot
 
 > **NLP-powered FAQ chatbot** built with Python · Flask · TF-IDF · Cosine Similarity · NLTK  
 > Developed as part of the **CodeAlpha AI Internship** program.
 
 ---
 
-## 📸 Preview
+##  Preview
 
 _Place your screenshots in the `screenshots/` folder and reference them here._
 
@@ -15,22 +15,22 @@ _Place your screenshots in the `screenshots/` folder and reference them here._
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📄 Reads FAQs from a structured `faq.json` file — easy to extend
-- 🧹 Preprocesses text with NLTK (lower-case → stop-word removal → Porter stemming)
-- 📊 Vectorises questions using **TF-IDF** (unigrams + bigrams)
-- 🔍 Matches user queries via **Cosine Similarity**
-- 🎯 Returns the best answer or a polite fallback when confidence < 40 %
-- 💬 ChatGPT-style chat UI with animated typing indicator
-- 🌙 Dark / light mode toggle (persisted in `localStorage`)
-- 📱 Fully responsive — works on mobile, tablet, and desktop
-- 🗂 Sidebar with clickable FAQ suggestion chips
-- 🔒 XSS-safe message rendering (`textContent` throughout)
+-  Reads FAQs from a structured `faq.json` file — easy to extend
+-  Preprocesses text with NLTK (lower-case → stop-word removal → Porter stemming)
+-  Vectorises questions using **TF-IDF** (unigrams + bigrams)
+-  Matches user queries via **Cosine Similarity**
+-  Returns the best answer or a polite fallback when confidence < 40 %
+-  ChatGPT-style chat UI with animated typing indicator
+-  Dark / light mode toggle (persisted in `localStorage`)
+-  Fully responsive — works on mobile, tablet, and desktop
+-  Sidebar with clickable FAQ suggestion chips
+-  XSS-safe message rendering (`textContent` throughout)
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
 
 ```
 CodeAlpha_FAQ_Chatbot/
@@ -54,7 +54,7 @@ CodeAlpha_FAQ_Chatbot/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the repository
 
@@ -91,7 +91,7 @@ Open your browser at **http://127.0.0.1:5000**
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ```
 User types question
@@ -126,7 +126,7 @@ User types question
 
 ---
 
-## 🔧 Extending the FAQ
+##  Extending the FAQ
 
 Add new entries to `faq.json`:
 
@@ -141,7 +141,7 @@ The chatbot rebuilds its TF-IDF matrix automatically on startup — no code chan
 
 ---
 
-## 📦 API Endpoints
+##  API Endpoints
 
 | Method | Path | Description |
 |--------|------|-------------|
@@ -152,7 +152,7 @@ The chatbot rebuilds its TF-IDF matrix automatically on startup — no code chan
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -165,14 +165,7 @@ The chatbot rebuilds its TF-IDF matrix automatically on startup — no code chan
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**  
-CodeAlpha AI Internship — Artificial Intelligence Track  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
 
-## 📄 License
 
-This project is released under the [MIT License](LICENSE).
